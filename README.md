@@ -1,6 +1,6 @@
 - 👋 Hello there, my name is Amenti
-- 🌱 I’m currently learning python with a hope to perhaps expand it to data science and machine learning
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning python with a plan to expand it to Data Science and Machine Learning field
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Engineering related projects
 - 📫 You can reach me on twitter @amenticodes
 
 <!---
